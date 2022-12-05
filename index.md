@@ -37,6 +37,6 @@ TwitterURL：https://twitter.com/itomkirin
 
 ## 改定履歴
 
-2021年6月27日Ver 1.0.0 新規作成
+2021年6月27日Ver 1.0.0 新規作成  
 2022年12月6日Ver 1.1.0
 
